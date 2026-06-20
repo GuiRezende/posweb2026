@@ -10,4 +10,5 @@ CREATE TABLE People (
 );
 
 INSERT INTO People (name, age, cell_phone) VALUES
-('John', 30, '111-111-1111');
+('John', 30, '111-111-1111'),
+('Marie', 27, '222-222-2222');
